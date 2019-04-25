@@ -1,4 +1,4 @@
-# todos
+# ToDoList using Vue
 
 ## Project setup
 ```
