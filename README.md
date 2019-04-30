@@ -1,7 +1,7 @@
 # ToDoList using Vue
 A simple To-Do list which adds and removes items from a list.
 # What I have learned
-Basic overview of concepts of the Vue programming language.
+* Basic overview of concepts of the Vue programming language.
 
 ## Project setup
 ```
